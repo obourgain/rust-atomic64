@@ -1,5 +1,7 @@
 # Atomic64 - 64 bits integers with atomic operations for Rust
 
+[![Build Status](https://travis-ci.org/obourgain/rust-atomic64.svg?branch=master)](https://travis-ci.org/obourgain/rust-atomic64)
+
 ## Usage
 
 To use `atomic64`, first add this to your `Cargo.toml`:
