@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["olivier bourgain <olivierbourgain02@gmail.com>"]
 license       = "Apache-2.0"
 description   = "Atomic 64-bits types"
+homepage = "https://github.com/obourgain/rust-atomic64"
 repository = "https://github.com/obourgain/rust-atomic64"
 keywords      = ["concurrency", "atomic"]
 readme        = "README.md"
