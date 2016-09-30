@@ -1,5 +1,10 @@
 # Atomic64 - 64 bits integers with atomic operations for Rust
 
+
+# Deprecated
+
+Use the types that are now included as unstable feature in std/sync [AtomicU64](https://doc.rust-lang.org/std/sync/atomic/struct.AtomicI64.html) and [AtomicI64](https://doc.rust-lang.org/std/sync/atomic/struct.AtomicI64.html)
+
 [![Build Status](https://travis-ci.org/obourgain/rust-atomic64.svg?branch=master)](https://travis-ci.org/obourgain/rust-atomic64)
 
 ## Usage
