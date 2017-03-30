@@ -1,7 +1,6 @@
 # Atomic64 - 64 bits integers with atomic operations for Rust
 
-
-# Warning
+# Warning
 
 Use the types that are now included as unstable feature in std/sync [AtomicU64](https://doc.rust-lang.org/std/sync/atomic/struct.AtomicI64.html) and [AtomicI64](https://doc.rust-lang.org/std/sync/atomic/struct.AtomicI64.html) for platforms supporting atomic operations on 64 bits integers. It is recommended to use those when available on your target platforms.
 
